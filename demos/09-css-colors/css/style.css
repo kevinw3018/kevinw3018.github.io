@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color: #FF0000;
+}
+
+#second-paragraph {
+    background-color: grey; 
+    color: white;
+}
+
+#span-1 {
+    color: black;
+}
+
+#span-2 {
+    background-color:yellow;
+}

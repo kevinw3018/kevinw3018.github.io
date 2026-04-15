@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-para {
+    color:grey;
+    background-color:orange;
+}
+
+#span-1 {
+    color:blue;
+    background-color:blanchedalmond
+}
+
+#span-2 {
+    color:red;
+    background-color:yellow;
+}
+
+#para-2 {
+    color:red;
+    background-color:rgb(193, 186, 186)
+}
+
+#span-3 {
+    color:white;
+    background-color:blue;
+}
+
+#span-4 {
+    color:white;
+    background-color:yellow
+}
+
+#para-3 {
+    color:grey;
+    background-color:rgb(242, 150, 150)
+}
