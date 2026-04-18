@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: grey;
+}
+
+span {
+    background-color: blue;
+    display: block;
+}
+
+div {
+    background-color: orange;
+    display: inline;
+}
+
+.narrow {
+    background-color: yellow;
+    display: inline-block;
+    width: 200px
+}
