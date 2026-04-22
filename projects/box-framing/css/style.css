@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    border: 10px;
+    border-bottom: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+p {
+    border-radius: 50%;
+    border-top: 10px;
+    border-bottom:10px;
+    border-left: 10px;
+    border-right: 10px;
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+
+    background-color: red;
+}
+
+h1 {
+    border: 5px;
+    border-top: 5px;
+    border-bottom:5px;
+    border-left: 5px;
+    border-right: 5px;
+    background-color: blue;
+    padding: 5px;
+    margin: 5px;
+
+
+}

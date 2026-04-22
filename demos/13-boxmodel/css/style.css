@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    border: 10px solid grey;
+    margin: 100px 50px;
+    padding: 12px;
+    border-radius: 24px;
+}
