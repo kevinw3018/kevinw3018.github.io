@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#morning {
+    background-color: grey;
+    margin: 12px;
+    color: white;
+}
+
+#afternoon {
+    background-color: lightgrey;
+    margin: 12px;
+    color: black;
+}
+
+#evening {
+    background-color: silver;
+    margin: 12px;
+    color: red;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+}
+
+.border {
+    border: 2px solid red;
+    padding: 8px;
+    background-color: green;
+    border-radius: 8px;
+}
+
+.important {
+    font-size: bold;
+    color: orange;
+}
+
+.completed {
+    text-decoration: 
+}
