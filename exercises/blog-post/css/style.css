@@ -18,3 +18,8 @@ div {
 #header {
     color: red;
 }
+
+.center-column {
+    max-width: 500px;
+    margin: 24px auto;
+}
