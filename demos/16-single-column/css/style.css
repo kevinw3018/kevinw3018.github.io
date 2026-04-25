@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.signle-column {
+    background-color: lightgreen;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
