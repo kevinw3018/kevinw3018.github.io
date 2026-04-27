@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Jim+Nightshade&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: "Ballet", cursive;
+}
+
+h1 {
+    font-family: "Jim Nightshade", cursive;
+}
+
+.center-column {
+    background-color: lightgrey;
+    max-width: 500px;
+    margin: 0px auto;
+    line-height: 5;
+    color: black;
+}
+
+div {
+    border: 10px solid red;
+    margin: 100px 50px;
+    padding: 12px;
+    border-radius: 24px;
+}
