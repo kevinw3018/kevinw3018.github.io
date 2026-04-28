@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    max-width: 400px;
+    margin: 24px auto;
+    
+    
+}
+
+.light-container {
+    background-color: black;
+    padding: 48px 0px;
+    color: orange; 
+
+}
+
+.dark-container {
+    background-color: black;
+    padding: 48px 0px;
+    color: purple; 
+}
+
+.med-container {
+    background-color: white;
+    padding: 48px 0px;
+    color: orange;
+}
+
+.buttonborder {
+    text-decoration: none;
+    color: orange;
+    display: inline-block;
+    margin: 12px 12px 12px 0px;
+    border: 5px solid orange;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.buttonsimple {
+  text-decoration: none;
+    color: purple;
+    display: inline-block;
+    margin: 12px 12px 12px 0px;
+    border: 5px solid purple;
+    padding: 15px;
+    border-radius: 20px;   
+}
+
+.simplebutton {
+   text-decoration: none;
+    color: orange;
+    display: inline-block;
+    margin: 12px 12px 12px 0px;
+    border: 5px solid orange;
+    padding: 15px;
+    border-radius: 20px;   
+}
