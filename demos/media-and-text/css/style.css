@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#single-column {
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+#side-by-side-container,
+#side-by-side-container-adv {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+#side-by-side-container img {
+    width: 50%
+}
+
+#side-by-side-container h2 {
+    width: 50%;
+}
+
+#side-by-side-container-adv img {
+    width: 100%;
+}
+
+#side-by-side-container-adv .image-container {
+    flex: 1;
+}
+
+#side-by-side-container-adv .text-container {
+    flex: 1;
+}

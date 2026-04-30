@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#single-column {
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+#recipe-intro {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+#recipe-intro img {
+    width: 250px;
+}
+
+#three-cards {
+    display: flex;
+    align-text: center;
+    gap: 36px;
+}
+
+#three-cards img {
+    width: 250px;
+}
