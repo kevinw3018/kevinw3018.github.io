@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#centered-hero {
+    background-image: url("../images/stars-on-velvet.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#centered-hero .hero-content {
+    color:white;
+    margin-top: 100px;
+}
+
+.hero-content h1 {
+    font-size: 72px;
+}
+
+.hero-content h3 {
+    font-size: 72px;
+}
+
+#side-hero {
+    background-image: url(../images/lonely-ocean.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center center; 
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10%;
+}
+
+#contrast-hero {
+    background-image: url(../images/placid-waters.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: cover cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#contrast-hero .hero-content {
+   background-color: rgba(255, 255, 255, 0.481);
+   padding: 72px; 
+   border-radius: 60px; 
+}
